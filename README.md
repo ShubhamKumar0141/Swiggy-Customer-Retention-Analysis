@@ -12,12 +12,12 @@ Swiggy faces a significant retention challenge: with a 36.88% churn rate across 
 
 ## Analysis Performed
 
-- **Customer Segmentation**  Categorized 5,000 customers into three segments: High Value High Frequency (1,262), Loyal but Price Sensitive (1,673), and At-Risk High Value Customers (2,065)
-- **Churn & Retention Analysis**  Identified churn drivers including delivery delays, order cancellations, and low app engagement
-- **Delivery Performance Analysis**  Investigated ETA accuracy, delay frequency, and their correlation with churn
-- **Root Cause Analysis (5 Whys)**  Traced high delivery delays to the absence of a dynamic ETA engine integrating real-time traffic, kitchen load, and partner availability
-- **Value vs. Effort Prioritization**  Mapped solutions across a 2×2 matrix to identify quick wins vs. strategic initiatives
-- **KPI Baseline & Product Roadmap**  Defined Tier 1 and Tier 2 KPIs and a 12-month quarterly rollout plan
+- **Customer Segmentation**  Categorized 5,000 customers into three segments: High Value High Frequency (1,262), Loyal but Price Sensitive (1,673), and At-Risk High Value Customers (2,065).
+- **Churn & Retention Analysis**  Identified churn drivers including delivery delays, order cancellations, and low app engagement.
+- **Delivery Performance Analysis**  Investigated ETA accuracy, delay frequency, and their correlation with churn.
+- **Root Cause Analysis (5 Whys)**  Traced high delivery delays to the absence of a dynamic ETA engine integrating real-time traffic, kitchen load, and partner availability.
+- **Value vs. Effort Prioritization**  Mapped solutions across a 2×2 matrix to identify quick wins vs. strategic initiatives.
+- **KPI Baseline & Product Roadmap**  Defined Tier 1 and Tier 2 KPIs and a 12-month quarterly rollout plan.
 
 
 ## Key Insights
